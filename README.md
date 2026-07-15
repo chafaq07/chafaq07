@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=54A6FF&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Afaq+Ahmad+%F0%9F%91%8B;Flutter+Developer+%F0%9F%93%B1;AI+Expert+%F0%9F%A4%96;Machine+Learning+%F0%9F%A7%A0;Deep+Learning+%F0%9F%94%AC;Computer+Vision+%F0%9F%91%81%EF%B8%8F;Building+AI-Powered+Mobile+Apps+%F0%9F%9A%80;Training+and+Deploying+AI+Models+%F0%9F%93%8A;Integrating+AI+Models+with+Flutter+Apps+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=54A6FF&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Afaq+Ahmad+%F0%9F%91%8B;Flutter+Developer+%F0%9F%93%B1;AI+Expert+%F0%9F%A4%96;Building+AI-Powered+Mobile+Apps+%F0%9F%9A%80;Training+and+Deploying+AI+Models+%F0%9F%93%8A;Integrating+AI+Models+with+Flutter+Apps+%F0%9F%94%A5" alt="Typing SVG" />
 </h1>
 
 
