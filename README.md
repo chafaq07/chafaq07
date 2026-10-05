@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=54A6FF&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Afaq+Ahmad+%F0%9F%91%8B;Flutter+Developer+%F0%9F%93%B1;AI+Expert+%F0%9F%A4%96;Building+AI-Powered+Mobile+Apps+%F0%9F%9A%80;Training+and+Deploying+AI+Models+%F0%9F%93%8A;Integrating+AI+Models+with+Flutter+Apps+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=54A6FF&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Afaq+Ahmad+%F0%9F%91%8B;AI/ML+Engineer+%F0%9F%93%B1;Flutter+Dveloper+%F0%9F%A4%96;Building+AI-Powered+Mobile+Apps+%F0%9F%9A%80;Training+and+Deploying+AI+Models+%F0%9F%93%8A;Integrating+AI+Models+with+Flutter+Apps+%F0%9F%94%A5" alt="Typing SVG" />
 </h1>
 
 
@@ -16,7 +16,13 @@
 
 
 # 💫 About Me:
-🚀 Computer Science student passionate about Artificial Intelligence and modern technologies.<br>💻 Flutter Developer building beautiful and functional mobile applications.<br>🤖 Interested in Machine Learning, Deep Learning, and Computer Vision.<br>📱 Currently working on AI-powered mobile apps and intelligent systems.<br>🧠 Exploring new technologies and solving real-world problems through code.<br>📊 Interested in AI, Stock Market, and innovative tech solutions.<br>🌱 Always learning and improving my development skills.
+I’m a Computer Science graduate and an AI/ML-focused developer passionate about building intelligent, practical, and user-friendly applications. I enjoy turning ideas into real-world solutions by combining modern software development with Artificial Intelligence.
+<br>
+My core skills include AI/ML, Deep Learning, Computer Vision, Flutter, Dart, Firebase, REST APIs, and UI/UX development. I have hands-on experience building cross-platform mobile applications and integrating AI/ML models into applications to create smarter and more useful user experiences.
+<br>
+I enjoy solving challenging problems, learning new technologies, optimizing application performance, and writing clean and maintainable code. I also have experience working with TensorFlow/Keras, FastAPI, Laravel APIs, and machine learning model integration, allowing me to work across both application development and AI solutions.
+<br>
+Currently, I’m expanding my knowledge in Generative AI, Large Language Models (LLMs), RAG, and advanced AI/ML technologies. My goal is to continuously improve my technical skills, contribute to impactful projects, and collaborate with innovative teams to build technology that solves real-world problems.
 
 
 # 💻 Tech Stack:
