@@ -17,11 +17,11 @@
 
 # 💫 About Me:
 I’m a Computer Science graduate and an AI/ML-focused developer passionate about building intelligent, practical, and user-friendly applications. I enjoy turning ideas into real-world solutions by combining modern software development with Artificial Intelligence.
-<br>
+<br><br>
 My core skills include AI/ML, Deep Learning, Computer Vision, Flutter, Dart, Firebase, REST APIs, and UI/UX development. I have hands-on experience building cross-platform mobile applications and integrating AI/ML models into applications to create smarter and more useful user experiences.
-<br>
+<br><br>
 I enjoy solving challenging problems, learning new technologies, optimizing application performance, and writing clean and maintainable code. I also have experience working with TensorFlow/Keras, FastAPI, Laravel APIs, and machine learning model integration, allowing me to work across both application development and AI solutions.
-<br>
+<br><br>
 Currently, I’m expanding my knowledge in Generative AI, Large Language Models (LLMs), RAG, and advanced AI/ML technologies. My goal is to continuously improve my technical skills, contribute to impactful projects, and collaborate with innovative teams to build technology that solves real-world problems.
 
 
